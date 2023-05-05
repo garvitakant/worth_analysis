@@ -1,4 +1,4 @@
-# worth_analysis
+#  Insights to Management in Consumer Goods Domain
 
 Hello,
 This section contains Data of a Hardware company called Atliq Solution. The company is facing issues with thier sales and need some good insights to figure out the problem.
